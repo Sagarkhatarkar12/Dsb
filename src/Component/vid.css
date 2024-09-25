@@ -1,0 +1,12 @@
+.VideoPlayer{
+    height: 80vh;
+    width: 20vw;
+    background-color: black;
+    border-radius: 20px;
+    margin: 40px 30px;
+}
+.VideoPlayer video{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+}

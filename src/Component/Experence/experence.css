@@ -1,0 +1,64 @@
+.exp-container{
+    min-height: 87vh;
+    width: 100vw;
+}
+.p-heading{
+    opacity: 0.7;
+}
+.gandhi{
+    height: 87vh;
+    width: 100vw;
+    display: flex;
+    background-color: whitesmoke;
+    /* background-color: blue; */
+    padding: 20px 10px;
+}
+.left-gandhi{
+    padding: 20px 30px;
+    width: 50%;
+         height: 100%;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+
+}
+.expimg {
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+}
+.expimg img{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+}
+.right-gandhi{
+    width: 50%;
+    padding: 20px 20px;
+    text-align: left;
+}
+.p-h{
+    line-height: 1.5;
+}
+.t-r{
+    text-align: right;
+    margin-right: 39px;
+    opacity: 0.6;
+}
+/* journery */
+.journey{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding: 20px 0px;
+    flex-direction: column;
+    background-color:whitesmoke;
+}
+.p-heading{
+    padding: 13px 5px;
+    background-color: red;
+    color: white;
+margin-bottom: 10px;
+}

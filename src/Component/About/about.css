@@ -1,0 +1,45 @@
+.about-container{
+    height: 87vh;
+    width: 100vw ;
+display: flex;
+
+}
+.about-left{
+    height: 100%;
+    width: 50%;
+
+}
+.about-left h1{
+    
+    text-align: center;
+    background-color: green;
+    color: white;
+    padding: 20px 0px;
+     border: 1px solid white;
+}
+.about-right{
+    height: 100%;
+    display: flex;
+     
+    width: 40%;
+    padding: 30px 20px;
+}
+.about-img{
+    height: 100%;
+    width: 100%;
+     border-radius: 20px;
+
+}
+.about-img img{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+}
+.about-left{
+    padding: 10px 40px;
+}
+.about-left p{
+    line-height: 1.7;
+    margin-top: 20px;
+
+}

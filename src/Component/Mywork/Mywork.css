@@ -1,0 +1,38 @@
+ 
+.Card-my {
+    height: auto;
+    width:100vw;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* background-color: #fff; */
+ 
+margin-bottom: 20px;
+}
+.Mywork{
+    width: 100vw;
+    height: 84vh;
+   
+    
+}
+ 
+.h{
+    margin: 30px 0px;
+    text-align: center;
+}
+.Card-my .img{
+    width: 30%;
+    height: auto;
+    padding: 10px ;
+    border-radius: 0;
+}
+.description{
+  
+    width: 50%;
+    padding: 0px 30px;
+    line-height: 2;
+}
+.img img{
+    height: 100%;
+    width: 100%;
+}
